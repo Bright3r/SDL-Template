@@ -11,3 +11,4 @@
 #define TITLE "Title"
 
 void init();
+void cleanup_SDL();
